@@ -186,6 +186,7 @@ h2{
 .skills{
     display: flex;
     flex-wrap: wrap;
+    flex-direction:column;
     margin: 60px auto;
     color: #fff;
     padding: 20px;
