@@ -376,6 +376,12 @@ footer h4{
         flex-direction: column;
         flex-wrap: wrap;
     }
+    .contact h4{
+    font-size: 1.8rem;
+}
+.contact p{
+    font-size: 1.1rem;
+}
 }
 
 
