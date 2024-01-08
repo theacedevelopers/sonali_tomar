@@ -171,6 +171,7 @@ h2{
 
 .skills{
     display: flex;
+    flex-direction:column;
     flex-wrap: wrap;
     margin: 60px auto;
     color: #fff;
