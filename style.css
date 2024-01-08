@@ -341,9 +341,6 @@ footer h4{
     .contact{
         display: block;  
     }
-    .contact .mail,.number h4{
-        font-size: 1rem;
-    }
     
 }
 
